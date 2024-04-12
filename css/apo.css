@@ -1,0 +1,121 @@
+/* CSS Document */
+html{
+	font-size:large;
+}
+
+body {
+	background: rgba(0,0,0,0.1);  /* Noir à 10% */
+	
+}
+
+.container {
+	margin: 0%;
+	max-width: 100%;
+	background-color: white;
+}
+
+section{
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 4%;
+	
+}
+.espacement{
+	padding-left: 2%;
+	padding-right: 2%;
+
+}
+.espacement{
+	padding-left: 2%;
+	padding-right: 2%;
+
+}
+.th3{
+	font-weight: 400;
+}
+.sommaire{
+	padding-top: 12vmin;
+	
+}
+.sommaire a{
+	font-size: 8vmin;
+	
+}
+.imgApoDessin{
+	padding-top: 10vh;
+	padding-bottom: 40%;
+}
+/*.row{
+
+	padding: 100px;
+}*/
+
+
+.roseClair {color : rgba(255, 0, 139, 0.1);}
+.roseFlashy{color : rgba(255, 0, 139, 1)}
+
+.bgRoseClair {background-color : rgba(255, 0, 139, 0.1);}
+.bgRoseFlashy{background-color : rgba(255, 0, 139, 1)}
+
+.text-justify {text-align: justify;
+  text-justify: inter-word;
+  font-size: large;
+}
+
+
+.retro {
+	font-family: 'Press Start 2P';
+}
+.titre{
+	
+	color: black;
+	padding-left: 10px;
+	
+}
+.titre:hover{
+	color: rgba(0,0,0,1);
+	background-color:rgba(255, 0, 139, 0.1);
+	margin-left: 10px;
+	padding-left: 10px;
+	border-radius: 15px;
+
+}
+.Lexend{
+	font-family: 'Lexend Exa', sans-serif;
+	
+}
+#presentation{
+	color: black;
+
+}
+#parcours-tab.active{
+	background-color: rgba(255, 0, 139, 0.1);
+	color: rgba(0,0,0,0.7)
+}
+#competences-tab.active{
+	background-color: rgba(255, 0, 139, 0.1);
+	color: rgba(0,0,0,0.7)
+}
+#coordonnees-tab.active{
+	background-color: rgba(255, 0, 139, 0.1);
+	color: rgba(0,0,0,0.7)
+	
+}
+a{
+	color: rgba(255, 0, 139, 1)
+}
+a:hover{
+	color:  rgba(255, 0, 139, 0.5);
+}
+.card-title{font-weight:400;}
+	
+/*
+- Couleurs pour les cadres du portfolio (à faire) + quand on passe sur ces mêmes cadres qui sont de taille 402x222 sur ma maquette mais c'est changeable ça doit juste être symétrique (couleurs prises avec la pipette sur le dessin) :
+a) Création de jeu : #F6B8D1
+b) Ecriture : #FFFFE5
+c) Codage : #A9EFE4
+d) Recherche : #010101
+e) Dessin : #C6F1F7
+f) Graphisme : #D4AA82
+g) Photographie : #F396BB
+*/
